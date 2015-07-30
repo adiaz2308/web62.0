@@ -1,0 +1,39 @@
+/*
+Theme name: Canal 6 Wordpress 2.0
+Theme URI: www.canal6.com.ni
+Description: Esta es la segun version del tema de worpress de Canal 6, se toma el mismo diseño con algunas modificaciones y buscando ser mas ligero
+Version: 1
+Author: Adolfo Díaz
+*/
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body {
+
+	font-size: 12pt;
+	font-family: "Open Sans";
+	background: #ddd;
+
+}
+
+header, #main, footer {
+	margin: 0 auto;
+	width: 95%;
+	max-width: 960px;
+
+}
+
+nav.socialicon {
+	width: 100%;
+	background: #F50087;
+}
+
+nav h1 {
+	margin: 0 auto;
+	max-width: 960px;
+	width: 100%;
+	color: white;
+}
